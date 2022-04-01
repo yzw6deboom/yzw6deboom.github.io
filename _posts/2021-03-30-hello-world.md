@@ -23,6 +23,4 @@ int main(){
 }
 ```
 
-![image-20220327184021601](/assets/2021-03-30-hello-world.assets/image-20220327184021601.png)
-
-![未命名作品](/assets/blog_res/2021-03-30-hello-world.assets/%E6%9C%AA%E5%91%BD%E5%90%8D%E4%BD%9C%E5%93%81.png)
+![store](/assets/blog_res/2021-03-30-hello-world.assets/store.jpg)
