@@ -7,9 +7,10 @@ author: Sans泽霖
 
 toc: true
 comments: true
-typora-root-url: ../../yzw6deboom.github.io
+
 math: false
 mermaid: true
+typora-root-url: ..
 ---
 
 # 感谢关注～ 
